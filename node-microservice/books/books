@@ -1,0 +1,2 @@
+npm install --save mongoose express body-parser
+port:4000
